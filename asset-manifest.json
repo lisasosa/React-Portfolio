@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/lisasosa/React-Portfolio/static/css/main.fde46407.chunk.css",
-    "main.js": "/lisasosa/React-Portfolio/static/js/main.bfc413da.chunk.js",
-    "main.js.map": "/lisasosa/React-Portfolio/static/js/main.bfc413da.chunk.js.map",
+    "main.css": "/lisasosa/React-Portfolio/static/css/main.3258314f.chunk.css",
+    "main.js": "/lisasosa/React-Portfolio/static/js/main.31bda86a.chunk.js",
+    "main.js.map": "/lisasosa/React-Portfolio/static/js/main.31bda86a.chunk.js.map",
     "runtime-main.js": "/lisasosa/React-Portfolio/static/js/runtime-main.14526f0b.js",
     "runtime-main.js.map": "/lisasosa/React-Portfolio/static/js/runtime-main.14526f0b.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/lisasosa/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.88cb275c.chunk.js": "/lisasosa/React-Portfolio/static/js/2.88cb275c.chunk.js",
-    "static/js/2.88cb275c.chunk.js.map": "/lisasosa/React-Portfolio/static/js/2.88cb275c.chunk.js.map",
+    "static/js/2.d7274181.chunk.js": "/lisasosa/React-Portfolio/static/js/2.d7274181.chunk.js",
+    "static/js/2.d7274181.chunk.js.map": "/lisasosa/React-Portfolio/static/js/2.d7274181.chunk.js.map",
     "index.html": "/lisasosa/React-Portfolio/index.html",
-    "precache-manifest.ed55186261615b331f46e3c283c7ddf5.js": "/lisasosa/React-Portfolio/precache-manifest.ed55186261615b331f46e3c283c7ddf5.js",
+    "precache-manifest.646939142dfdd0cf399fcc3e8b773cd1.js": "/lisasosa/React-Portfolio/precache-manifest.646939142dfdd0cf399fcc3e8b773cd1.js",
     "service-worker.js": "/lisasosa/React-Portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/lisasosa/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.fde46407.chunk.css.map": "/lisasosa/React-Portfolio/static/css/main.fde46407.chunk.css.map",
-    "static/js/2.88cb275c.chunk.js.LICENSE.txt": "/lisasosa/React-Portfolio/static/js/2.88cb275c.chunk.js.LICENSE.txt",
+    "static/css/main.3258314f.chunk.css.map": "/lisasosa/React-Portfolio/static/css/main.3258314f.chunk.css.map",
+    "static/js/2.d7274181.chunk.js.LICENSE.txt": "/lisasosa/React-Portfolio/static/js/2.d7274181.chunk.js.LICENSE.txt",
     "static/media/burger.png": "/lisasosa/React-Portfolio/static/media/burger.0f9f6eed.png",
     "static/media/dayplanner.png": "/lisasosa/React-Portfolio/static/media/dayplanner.e6c1ccc5.png",
     "static/media/newsapp.png": "/lisasosa/React-Portfolio/static/media/newsapp.cdf9083a.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.14526f0b.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.88cb275c.chunk.js",
-    "static/css/main.fde46407.chunk.css",
-    "static/js/main.bfc413da.chunk.js"
+    "static/js/2.d7274181.chunk.js",
+    "static/css/main.3258314f.chunk.css",
+    "static/js/main.31bda86a.chunk.js"
   ]
 }
