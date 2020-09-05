@@ -36,3 +36,13 @@ code {
 .g-card-sub-title {
   margin: 0px;
 }
+
+.success-msg {
+  color: #57a773;
+  scroll-padding: 10px 15px;
+}
+
+.err-msg {
+  color: #EE6352;
+  scroll-padding: 10px 15px;
+}
