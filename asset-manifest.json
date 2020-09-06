@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/lisasosa/React-Portfolio/static/css/main.3258314f.chunk.css",
-    "main.js": "/lisasosa/React-Portfolio/static/js/main.1759f1ce.chunk.js",
-    "main.js.map": "/lisasosa/React-Portfolio/static/js/main.1759f1ce.chunk.js.map",
-    "runtime-main.js": "/lisasosa/React-Portfolio/static/js/runtime-main.14526f0b.js",
-    "runtime-main.js.map": "/lisasosa/React-Portfolio/static/js/runtime-main.14526f0b.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/lisasosa/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.0383e84f.chunk.js": "/lisasosa/React-Portfolio/static/js/2.0383e84f.chunk.js",
-    "static/js/2.0383e84f.chunk.js.map": "/lisasosa/React-Portfolio/static/js/2.0383e84f.chunk.js.map",
-    "index.html": "/lisasosa/React-Portfolio/index.html",
-    "precache-manifest.a46120e5d320232bf137ce1bfbdb176f.js": "/lisasosa/React-Portfolio/precache-manifest.a46120e5d320232bf137ce1bfbdb176f.js",
-    "service-worker.js": "/lisasosa/React-Portfolio/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/lisasosa/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.3258314f.chunk.css.map": "/lisasosa/React-Portfolio/static/css/main.3258314f.chunk.css.map",
-    "static/js/2.0383e84f.chunk.js.LICENSE.txt": "/lisasosa/React-Portfolio/static/js/2.0383e84f.chunk.js.LICENSE.txt",
-    "static/media/burger.png": "/lisasosa/React-Portfolio/static/media/burger.0f9f6eed.png",
-    "static/media/dayplanner.png": "/lisasosa/React-Portfolio/static/media/dayplanner.e6c1ccc5.png",
-    "static/media/newsapp.png": "/lisasosa/React-Portfolio/static/media/newsapp.cdf9083a.png",
-    "static/media/project2.png": "/lisasosa/React-Portfolio/static/media/project2.9606955d.png",
-    "static/media/team.png": "/lisasosa/React-Portfolio/static/media/team.6baded9c.png",
-    "static/media/weather.png": "/lisasosa/React-Portfolio/static/media/weather.37beb84a.png"
+    "main.css": "/React-Portfolio/static/css/main.3258314f.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.70b75d31.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.70b75d31.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0383e84f.chunk.js": "/React-Portfolio/static/js/2.0383e84f.chunk.js",
+    "static/js/2.0383e84f.chunk.js.map": "/React-Portfolio/static/js/2.0383e84f.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.824dcce939e9078809b29ceba7fae134.js": "/React-Portfolio/precache-manifest.824dcce939e9078809b29ceba7fae134.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3258314f.chunk.css.map": "/React-Portfolio/static/css/main.3258314f.chunk.css.map",
+    "static/js/2.0383e84f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0383e84f.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/React-Portfolio/static/media/burger.0f9f6eed.png",
+    "static/media/dayplanner.png": "/React-Portfolio/static/media/dayplanner.e6c1ccc5.png",
+    "static/media/newsapp.png": "/React-Portfolio/static/media/newsapp.cdf9083a.png",
+    "static/media/project2.png": "/React-Portfolio/static/media/project2.9606955d.png",
+    "static/media/team.png": "/React-Portfolio/static/media/team.6baded9c.png",
+    "static/media/weather.png": "/React-Portfolio/static/media/weather.37beb84a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.14526f0b.js",
+    "static/js/runtime-main.0ad08de7.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.0383e84f.chunk.js",
     "static/css/main.3258314f.chunk.css",
-    "static/js/main.1759f1ce.chunk.js"
+    "static/js/main.70b75d31.chunk.js"
   ]
 }
